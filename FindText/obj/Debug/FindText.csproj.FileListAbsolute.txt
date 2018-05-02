@@ -1,0 +1,10 @@
+C:\Users\maico\Desktop\Genetic Code\FindText\FindText\bin\Debug\FindText.exe.config
+C:\Users\maico\Desktop\Genetic Code\FindText\FindText\bin\Debug\FindText.exe
+C:\Users\maico\Desktop\Genetic Code\FindText\FindText\bin\Debug\FindText.pdb
+C:\Users\maico\Desktop\Genetic Code\FindText\FindText\obj\Debug\FindText.csprojResolveAssemblyReference.cache
+C:\Users\maico\Desktop\Genetic Code\FindText\FindText\obj\Debug\FindText.Form1.resources
+C:\Users\maico\Desktop\Genetic Code\FindText\FindText\obj\Debug\FindText.Properties.Resources.resources
+C:\Users\maico\Desktop\Genetic Code\FindText\FindText\obj\Debug\FindText.csproj.GenerateResource.cache
+C:\Users\maico\Desktop\Genetic Code\FindText\FindText\obj\Debug\FindText.csproj.CoreCompileInputs.cache
+C:\Users\maico\Desktop\Genetic Code\FindText\FindText\obj\Debug\FindText.exe
+C:\Users\maico\Desktop\Genetic Code\FindText\FindText\obj\Debug\FindText.pdb
