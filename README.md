@@ -1,7 +1,7 @@
 # FindText
 A simple C# program that finds a determined text using the foundation of genetic algorithms.
 
-![Alt Text](https://raw.githubusercontent.com/TheAkiraxD/FindText/master/FindText/preview_gif.gif)
+![Alt Text](https://raw.githubusercontent.com/TheAkiraxD/FindText/master/FindText/preview_gif2.gif)
 
 ### About Genetic Algorithms
 To know more details about Genetic Algorithms I strongly recommend the article [An Introduction to Genetic Algorithms](https://www.whitman.edu/Documents/Academics/Mathematics/2014/carrjk.pdf) from Jenna Carr.
